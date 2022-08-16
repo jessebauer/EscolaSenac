@@ -47,7 +47,7 @@ namespace Escola
             }
         }
 
-        public System.Collections.Generic.List<T> frequencia { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public System.Collections.Generic.List<String> frequencia { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
 
         public float mediaDeNotas
         {
@@ -57,14 +57,14 @@ namespace Escola
             }
         }
 
-        public System.Collections.Generic.List<T> notas { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public System.Collections.Generic.List<String> notas { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
 
-        public matricula cadastraPessoa()
+        public void cadastraPessoa()
         {
             throw new System.NotImplementedException();
         }
 
-        public System.Collections.Generic.List<T> consultarNotas()
+        public System.Collections.Generic.List<String> consultarNotas()
         {
             throw new System.NotImplementedException();
         }
@@ -74,7 +74,7 @@ namespace Escola
             throw new System.NotImplementedException();
         }
 
-        public System.Collections.Generic.List<T> consultaFreq()
+        public System.Collections.Generic.List<String> consultaFreq()
         {
             throw new System.NotImplementedException();
         }
@@ -94,32 +94,6 @@ namespace Escola
     {
 
         public void cadastraNota()
-        {
-            throw new System.NotImplementedException();
-        }
-
-        public void cadastraFreq()
-        {
-            throw new System.NotImplementedException();
-        }
-    }
-
-    public class CopyOfProfessor : Pessoa
-    {
-        public int salario
-        {
-            get => default;
-            set
-            {
-            }
-        }
-
-        public void cadastraNota()
-        {
-            throw new System.NotImplementedException();
-        }
-
-        public void getSalario()
         {
             throw new System.NotImplementedException();
         }
