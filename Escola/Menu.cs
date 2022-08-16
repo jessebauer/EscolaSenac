@@ -10,6 +10,7 @@ namespace Escola
         private void btnCadFuncionario_Click(object sender, EventArgs e)
         {
             CadFuncionario cadFuncionario = new CadFuncionario();
+            this.Hide();
             cadFuncionario.Show();
         }
 
