@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="EscolaSenac.Pessoa">
+    <Position X="3.5" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAIQAAABAAAAAAAARAIIAAAABAAAAAAAAIBAgAAAAAI=</HashCode>
+      <FileName>Pessoa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EscolaSenac.Professor">
+    <Position X="3.75" Y="8.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Pessoa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EscolaSenac.Aluno">
+    <Position X="6.25" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pessoa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EscolaSenac.Administrativa">
+    <Position X="1.25" Y="8.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Administrativa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EscolaSenac.Funcionario">
+    <Position X="2.25" Y="5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>QAAARAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAwAAAA=</HashCode>
+      <FileName>Funcionario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
